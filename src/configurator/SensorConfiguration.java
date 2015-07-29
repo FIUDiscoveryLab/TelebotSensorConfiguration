@@ -3,6 +3,7 @@ import utility.Extrema;
 import utility.Parser;
 import model.Sensor;
 
+import java.io.File;
 import java.io.PrintWriter;
 import java.util.Scanner;
 
@@ -81,16 +82,20 @@ public class SensorConfiguration
 	{ 
 		try
 		{
-			scanner = new Scanner(infile);
+			File file = new File(infile);
+			
+			scanner = new Scanner(file);
 			
 			joints = new String[numberOfJoints];
 			
 			while(scanner.hasNextLine())
 			{
 				String line = scanner.nextLine();
+				System.out.println(line);
 				
 				while(line != null)
 				{	
+					System.out.println("hello");
 					sensor = (Sensor)parser.parse(line);
 					
 					if(sensor.getJointName().equals("head"))

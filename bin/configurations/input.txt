@@ -1,0 +1,2815 @@
+right_elbow -63 16 -29
+
+RS: tcp error
+LHand error
+left_elbow -80 -50 25
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -69 1 -41
+
+RS: tcp error
+LHand error
+left_elbow -74 -35 40
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -72 -4 -42
+
+RS: tcp error
+LHand error
+left_elbow -67 -36 43
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -70 0 -35
+
+RS: tcp error
+LHand error
+left_elbow -61 -45 37
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -60 12 -21
+
+RS: tcp error
+LHand error
+left_elbow -56 -58 25
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -54 18 2
+
+RS: tcp error
+LHand error
+left_elbow -54 -64 16
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -80 17 11
+
+RS: tcp error
+LHand error
+left_elbow -91 -48 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -75 56 14
+
+RS: tcp error
+LHand error
+left_elbow -78 -68 -2
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 56 8
+
+RS: tcp error
+LHand error
+left_elbow -86 -71 1
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -102 59 5
+
+RS: tcp error
+LHand error
+left_elbow -83 -72 0
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -104 61 4
+
+RS: tcp error
+LHand error
+left_elbow -84 -72 0
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -105 64 2
+
+RS: tcp error
+LHand error
+left_elbow -82 -74 1
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -35 20 -24
+
+RS: tcp error
+LHand error
+left_elbow -29 -43 26
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -88 63 8
+
+RS: tcp error
+LHand error
+left_elbow -94 -72 1
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -65 -18 -69
+
+RS: tcp error
+LHand error
+left_elbow -83 -86 1
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -70 23 -8
+
+RS: tcp error
+LHand error
+left_elbow -82 -89 0
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -15 52 64
+
+RS: tcp error
+LHand error
+left_elbow -80 -90 0
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -91 68 7
+
+RS: tcp error
+LHand error
+left_elbow -77 -5 69
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 73 3
+
+RS: tcp error
+LHand error
+left_elbow -70 -3 24
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -88 67 10
+
+RS: tcp error
+LHand error
+left_elbow -55 -109 0
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -90 49 20
+
+RS: tcp error
+LHand error
+left_elbow -68 -60 -9
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -9 0 -6
+
+RS: tcp error
+LHand error
+left_elbow 9 0 14
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -79 7 -5
+
+RS: tcp error
+LHand error
+left_elbow -84 -63 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 67 4
+
+RS: tcp error
+LHand error
+left_elbow -78 -81 3
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -82 -20 -56
+
+RS: tcp error
+LHand error
+left_elbow -82 -86 2
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -90 4 -8
+
+RS: tcp error
+LHand error
+left_elbow -87 -83 3
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -68 38 20
+
+RS: tcp error
+LHand error
+left_elbow -108 -51 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -101 58 5
+
+RS: tcp error
+LHand error
+left_elbow -63 -24 22
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 63 4
+
+RS: tcp error
+LHand error
+left_elbow -64 -17 25
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -102 68 2
+
+RS: tcp error
+LHand error
+left_elbow -68 -13 36
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -101 70 2
+
+RS: tcp error
+LHand error
+left_elbow -70 -13 45
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 71 4
+
+RS: tcp error
+LHand error
+left_elbow -68 -13 60
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -91 72 5
+
+RS: tcp error
+LHand error
+left_elbow -60 -17 69
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -104 79 1
+
+RS: tcp error
+LHand error
+left_elbow -54 -20 80
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -105 79 1
+
+RS: tcp error
+LHand error
+left_elbow -47 -23 85
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -106 78 1
+
+RS: tcp error
+LHand error
+left_elbow -43 -29 83
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -106 78 1
+
+RS: tcp error
+LHand error
+left_elbow -38 -37 78
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -105 77 1
+
+RS: tcp error
+LHand error
+left_elbow -40 -36 80
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -106 76 0
+
+RS: tcp error
+LHand error
+left_elbow -40 -33 83
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -107 78 2
+
+RS: tcp error
+LHand error
+left_elbow -47 -20 87
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -107 77 1
+
+RS: tcp error
+LHand error
+left_elbow -54 -13 85
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -107 76 1
+
+RS: tcp error
+LHand error
+left_elbow -63 -5 74
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -108 75 1
+
+RS: tcp error
+LHand error
+left_elbow -72 0 60
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -106 75 0
+
+RS: tcp error
+LHand error
+left_elbow -76 0 48
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -103 77 0
+
+RS: tcp error
+LHand error
+left_elbow -77 -1 29
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 73 5
+
+RS: tcp error
+LHand error
+left_elbow -79 -2 22
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -66 9 49
+
+RS: tcp error
+LHand error
+left_elbow -75 -1 32
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -69 -4 -13
+
+RS: tcp error
+LHand error
+left_elbow -77 8 60
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -65 0 -52
+
+RS: tcp error
+LHand error
+left_elbow -51 -11 92
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -59 2 -67
+
+RS: tcp error
+LHand error
+left_elbow -38 -22 95
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -1 54 -96
+
+RS: tcp error
+LHand error
+left_elbow 32 -99 77
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -1 53 -112
+
+RS: tcp error
+LHand error
+left_elbow 31 -95 71
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -85 -44 -30
+
+RS: tcp error
+LHand error
+left_elbow -45 -10 73
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -45 -26 -3
+
+RS: tcp error
+LHand error
+left_elbow -41 -5 6
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -52 -19 -2
+
+RS: tcp error
+LHand error
+left_elbow -37 -8 3
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -69 2 -65
+
+RS: tcp error
+LHand error
+left_elbow -56 -20 71
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -123 35 -4
+
+RS: tcp error
+LHand error
+left_elbow -144 -16 12
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -130 -44 -1
+
+RS: tcp error
+LHand error
+left_elbow -93 -52 -3
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -123 80 7
+
+RS: tcp error
+LHand error
+left_elbow -56 -46 -29
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -135 83 4
+
+RS: tcp error
+LHand error
+left_elbow -50 -40 -34
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -143 86 0
+
+RS: tcp error
+LHand error
+left_elbow -45 -36 -36
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -148 89 -2
+
+RS: tcp error
+LHand error
+left_elbow -41 -33 -38
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -149 96 -6
+
+RS: tcp error
+LHand error
+left_elbow -37 -30 -42
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -146 97 -4
+
+RS: tcp error
+LHand error
+left_elbow -37 -30 -42
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -139 95 3
+
+RS: tcp error
+LHand error
+left_elbow -38 -31 -41
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -136 93 5
+
+RS: tcp error
+LHand error
+left_elbow -39 -32 -41
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -134 90 5
+
+RS: tcp error
+LHand error
+left_elbow -40 -33 -41
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -134 82 4
+
+RS: tcp error
+LHand error
+left_elbow -42 -34 -39
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -136 70 2
+
+RS: tcp error
+LHand error
+left_elbow -44 -36 -39
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -140 50 0
+
+RS: tcp error
+LHand error
+left_elbow -46 -38 -37
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -142 20 -1
+
+RS: tcp error
+LHand error
+left_elbow -47 -38 -36
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -133 1 -7
+
+RS: tcp error
+LHand error
+left_elbow -48 -38 -34
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -132 1 -11
+
+RS: tcp error
+LHand error
+left_elbow -52 -41 -32
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -132 6 -7
+
+RS: tcp error
+LHand error
+left_elbow -58 -45 -26
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -125 23 -2
+
+RS: tcp error
+LHand error
+left_elbow -64 -49 -21
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -112 41 4
+
+RS: tcp error
+LHand error
+left_elbow -77 -56 -10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 49 15
+
+RS: tcp error
+LHand error
+left_elbow -88 -59 -4
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 45 18
+
+RS: tcp error
+LHand error
+left_elbow -100 -59 0
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 44 20
+
+RS: tcp error
+LHand error
+left_elbow -111 -51 3
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 39 22
+
+RS: tcp error
+LHand error
+left_elbow -123 -28 9
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 35 25
+
+RS: tcp error
+LHand error
+left_elbow -122 -9 18
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -91 32 27
+
+RS: tcp error
+LHand error
+left_elbow -119 21 20
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -92 32 27
+
+RS: tcp error
+LHand error
+left_elbow -117 29 19
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -91 33 27
+
+RS: tcp error
+LHand error
+left_elbow -115 18 23
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -90 35 28
+
+RS: tcp error
+LHand error
+left_elbow -111 -5 28
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -88 35 30
+
+RS: tcp error
+LHand error
+left_elbow -106 -27 17
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -83 30 35
+
+RS: tcp error
+LHand error
+left_elbow -94 -39 9
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -78 19 44
+
+RS: tcp error
+LHand error
+left_elbow -72 -46 -8
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -67 4 52
+
+RS: tcp error
+LHand error
+left_elbow -68 -49 -8
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -105 49 -3
+
+RS: tcp error
+LHand error
+left_elbow -98 -69 6
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -108 23 -18
+
+RS: tcp error
+LHand error
+left_elbow -94 -51 21
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -83 69 13
+
+RS: tcp error
+LHand error
+left_elbow -60 -74 -10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -115 74 0
+
+RS: tcp error
+LHand error
+left_elbow -84 -83 2
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -120 65 0
+
+RS: tcp error
+LHand error
+left_elbow -95 -65 9
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -135 48 0
+
+RS: tcp error
+LHand error
+left_elbow -127 -35 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -118 64 0
+
+RS: tcp error
+LHand error
+left_elbow -131 -42 3
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -47 63 54
+
+RS: tcp error
+LHand error
+left_elbow -53 -94 -17
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -112 15 -7
+
+RS: tcp error
+LHand error
+left_elbow -110 -37 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -70 50 36
+
+RS: tcp error
+LHand error
+left_elbow -88 -85 0
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 67 6
+
+RS: tcp error
+LHand error
+left_elbow -106 -59 2
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -108 59 2
+
+RS: tcp error
+LHand error
+left_elbow -112 -44 6
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -114 44 1
+
+RS: tcp error
+LHand error
+left_elbow -113 -31 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -117 18 0
+
+RS: tcp error
+LHand error
+left_elbow -114 -14 20
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -116 5 -5
+
+RS: tcp error
+LHand error
+left_elbow -111 1 30
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -115 -7 -9
+
+RS: tcp error
+LHand error
+left_elbow -103 11 33
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -114 -11 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 20 35
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -101 0 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 25 32
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 3 -6
+
+RS: tcp error
+LHand error
+left_elbow -105 22 29
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 5 -5
+
+RS: tcp error
+LHand error
+left_elbow -116 4 27
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 12 -5
+
+RS: tcp error
+LHand error
+left_elbow -122 -20 17
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -101 23 -4
+
+RS: tcp error
+LHand error
+left_elbow -112 -44 9
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -102 28 -3
+
+RS: tcp error
+LHand error
+left_elbow -112 -55 4
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 23 -4
+
+RS: tcp error
+LHand error
+left_elbow -108 -55 6
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -99 13 -8
+
+RS: tcp error
+LHand error
+left_elbow -110 -43 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 7 -8
+
+RS: tcp error
+LHand error
+left_elbow -116 -22 19
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -91 9 -5
+
+RS: tcp error
+LHand error
+left_elbow -114 -3 30
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 13 -4
+
+RS: tcp error
+LHand error
+left_elbow -104 9 37
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 14 -4
+
+RS: tcp error
+LHand error
+left_elbow -96 17 45
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -90 13 -4
+
+RS: tcp error
+LHand error
+left_elbow -88 20 52
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -90 12 -4
+
+RS: tcp error
+LHand error
+left_elbow -81 17 62
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -88 10 -3
+
+RS: tcp error
+LHand error
+left_elbow -74 13 73
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -88 10 -2
+
+RS: tcp error
+LHand error
+left_elbow -72 11 75
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -88 8 -3
+
+RS: tcp error
+LHand error
+left_elbow -72 9 77
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -88 6 -2
+
+RS: tcp error
+LHand error
+left_elbow -72 8 77
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -87 7 -2
+
+RS: tcp error
+LHand error
+left_elbow -76 9 73
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 13 -4
+
+RS: tcp error
+LHand error
+left_elbow -87 12 60
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 32 -6
+
+RS: tcp error
+LHand error
+left_elbow -108 8 40
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -102 47 -4
+
+RS: tcp error
+LHand error
+left_elbow -122 -24 19
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -111 66 0
+
+RS: tcp error
+LHand error
+left_elbow -127 -52 0
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -125 73 -1
+
+RS: tcp error
+LHand error
+left_elbow -131 -61 7
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -128 62 0
+
+RS: tcp error
+LHand error
+left_elbow -131 -49 0
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -134 33 -1
+
+RS: tcp error
+LHand error
+left_elbow -131 -29 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -129 7 -9
+
+RS: tcp error
+LHand error
+left_elbow -121 -3 28
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -118 -14 -16
+
+RS: tcp error
+LHand error
+left_elbow -115 9 33
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -110 -28 -20
+
+RS: tcp error
+LHand error
+left_elbow -107 21 34
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -109 -34 -21
+
+RS: tcp error
+LHand error
+left_elbow -101 24 38
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -109 -33 -20
+
+RS: tcp error
+LHand error
+left_elbow -103 25 35
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -107 -28 -19
+
+RS: tcp error
+LHand error
+left_elbow -109 22 33
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -117 -21 -12
+
+RS: tcp error
+LHand error
+left_elbow -116 14 31
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -105 -10 -12
+
+RS: tcp error
+LHand error
+left_elbow -126 1 31
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -100 -5 -10
+
+RS: tcp error
+LHand error
+left_elbow -128 -17 20
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 -3 -9
+
+RS: tcp error
+LHand error
+left_elbow -125 -30 14
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 -1 -8
+
+RS: tcp error
+LHand error
+left_elbow -123 -38 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 0 -9
+
+RS: tcp error
+LHand error
+left_elbow -113 -42 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 0 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -50 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 0 -8
+
+RS: tcp error
+LHand error
+left_elbow -105 -51 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -106 -52 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -51 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -108 -51 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -52 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -52 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -52 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -52 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -52 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 5 -9
+
+RS: tcp error
+LHand error
+left_elbow -107 -52 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 5 -9
+
+RS: tcp error
+LHand error
+left_elbow -107 -51 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 3 -9
+
+RS: tcp error
+LHand error
+left_elbow -107 -51 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 5 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -51 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 4 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -51 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -108 -51 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 2 -9
+
+RS: tcp error
+LHand error
+left_elbow -107 -51 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 2 -9
+
+RS: tcp error
+LHand error
+left_elbow -107 -52 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -92 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -106 -52 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -92 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -106 -52 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -92 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -106 -52 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 2 -7
+
+RS: tcp error
+LHand error
+left_elbow -107 -52 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 1 -7
+
+RS: tcp error
+LHand error
+left_elbow -107 -53 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -53 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -107 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 2 -9
+
+RS: tcp error
+LHand error
+left_elbow -106 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -106 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -106 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -106 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -106 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -106 -55 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -106 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -106 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -106 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -106 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -106 -54 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -105 -55 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -105 -55 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -105 -55 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -105 -55 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -105 -55 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 0 -9
+
+RS: tcp error
+LHand error
+left_elbow -101 -58 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 0 -10
+
+RS: tcp error
+LHand error
+left_elbow -92 -59 15
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 0 -10
+
+RS: tcp error
+LHand error
+left_elbow -83 -54 23
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 0 -10
+
+RS: tcp error
+LHand error
+left_elbow -73 -51 29
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 -1 -10
+
+RS: tcp error
+LHand error
+left_elbow -66 -49 36
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 -1 -10
+
+RS: tcp error
+LHand error
+left_elbow -61 -47 41
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 -1 -10
+
+RS: tcp error
+LHand error
+left_elbow -61 -44 45
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 -1 -10
+
+RS: tcp error
+LHand error
+left_elbow -59 -46 44
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 -1 -10
+
+RS: tcp error
+LHand error
+left_elbow -57 -52 39
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 -1 -10
+
+RS: tcp error
+LHand error
+left_elbow -57 -61 31
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 -1 -11
+
+RS: tcp error
+LHand error
+left_elbow -58 -75 17
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -99 -1 -11
+
+RS: tcp error
+LHand error
+left_elbow -57 -81 6
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -99 -1 -10
+
+RS: tcp error
+LHand error
+left_elbow -53 -75 -3
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -98 0 -10
+
+RS: tcp error
+LHand error
+left_elbow -45 -61 -18
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -93 1 -12
+
+RS: tcp error
+LHand error
+left_elbow -49 -61 -9
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 -2 -15
+
+RS: tcp error
+LHand error
+left_elbow -61 -60 -4
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -111 -15 -19
+
+RS: tcp error
+LHand error
+left_elbow -58 -60 -6
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -101 -24 -31
+
+RS: tcp error
+LHand error
+left_elbow -58 -64 -6
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -92 -8 -51
+
+RS: tcp error
+LHand error
+left_elbow -62 -65 -3
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -89 -5 -50
+
+RS: tcp error
+LHand error
+left_elbow -66 -67 0
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -99 -18 -33
+
+RS: tcp error
+LHand error
+left_elbow -71 -67 4
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -107 -21 -27
+
+RS: tcp error
+LHand error
+left_elbow -74 -67 7
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -110 -11 -16
+
+RS: tcp error
+LHand error
+left_elbow -79 -65 10
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -111 -4 -11
+
+RS: tcp error
+LHand error
+left_elbow -83 -63 11
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -108 -2 -10
+
+RS: tcp error
+LHand error
+left_elbow -90 -60 12
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -103 -3 -11
+
+RS: tcp error
+LHand error
+left_elbow -94 -53 15
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -103 -2 -10
+
+RS: tcp error
+LHand error
+left_elbow -96 -49 18
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -99 -1 -10
+
+RS: tcp error
+LHand error
+left_elbow -97 -50 17
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 -1 -10
+
+RS: tcp error
+LHand error
+left_elbow -96 -53 16
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 0 -9
+
+RS: tcp error
+LHand error
+left_elbow -97 -55 14
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -96 -55 14
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -96 -56 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -97 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -97 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -96 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -56 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -56 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -56 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -56 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -98 -56 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -97 1 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -95 3 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -55 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 2 -8
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+stopping stream
+stopped stream
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13
+
+LS: tcp error
+Head error
+RHand error
+right_elbow -94 1 -9
+
+RS: tcp error
+LHand error
+left_elbow -99 -54 13

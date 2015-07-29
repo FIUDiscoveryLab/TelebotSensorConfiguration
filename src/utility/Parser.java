@@ -9,11 +9,12 @@ public class Parser
 
 	public Sensor parse(String in)
 	{
+		System.out.println(in);
 		Sensor sensor = new Sensor();
 		
 		try 
 		{
-			StringTokenizer tokenizer = new StringTokenizer(delim);
+			StringTokenizer tokenizer = new StringTokenizer(in, delim);
 			
 			String joint_token = tokenizer.nextToken();
 				
