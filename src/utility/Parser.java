@@ -14,10 +14,18 @@ public class Parser
 		try 
 		{
 			StringTokenizer tokenizer = new StringTokenizer(delim);
+			
+			String joint_token = tokenizer.nextToken();
 				
-			while(tokenizer.nextToken() != null)
+			if(joint_token.equals("head") 
+					|| joint_token.equals("left_shoulder") 
+					|| joint_token.equals("left_elbow") 
+					|| joint_token.equals("left_wrist")
+					|| joint_token.equals("right_shoulder") 
+					|| joint_token.equals("right_elbow") 
+					|| joint_token.equals("right_wrist"))
 			{
-				sensor.setJointName(tokenizer.nextToken());
+				sensor.setJointName(joint_token);
 				sensor.setX(Integer.parseInt(tokenizer.nextToken()));
 				sensor.setY(Integer.parseInt(tokenizer.nextToken()));
 				sensor.setZ(Integer.parseInt(tokenizer.nextToken()));
