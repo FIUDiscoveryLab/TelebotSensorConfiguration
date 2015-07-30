@@ -1,7 +1,7 @@
-null
-null
-null
-null
-null
-null
-null
+HEAD max x: 0 min x: 360 max y: 0 min y: 360 max z: 0 min z: 360
+SHOULDER LEFT max x: 0 min x: 360 max y: 0 min y: 360 max z: 0 min z: 360
+ELBOW LEFT max x: 32 min x: -144 max y: 29 min y: -109 max z: 95 min z: -42
+WRIST LEFT max x: 0 min x: 360 max y: 0 min y: 360 max z: 0 min z: 360
+SHOULDER RIGHT max x: 0 min x: 360 max y: 0 min y: 360 max z: 0 min z: 360
+ELBOW RIGHT max x: 0 min x: -149 max y: 97 min y: -44 max z: 64 min z: -112
+WRIST RIGHT max x: 0 min x: 360 max y: 0 min y: 360 max z: 0 min z: 360

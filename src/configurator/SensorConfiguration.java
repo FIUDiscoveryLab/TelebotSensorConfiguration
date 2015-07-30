@@ -13,9 +13,9 @@ public class SensorConfiguration
 	final int numberOfJoints = 7;
 	
 	private Sensor sensor;
-	private static Parser parser;
+	private Parser parser;
 	private Scanner scanner;
-	private static Extrema extrema;
+	private Extrema extrema;
 	private PrintWriter printer;
 	private String infile;
 	private String outfile;
@@ -76,6 +76,8 @@ public class SensorConfiguration
 	{
 		this.infile = infile;
 		this.outfile = outfile;
+		parser = new Parser();
+		extrema = new Extrema();
 	}
 	
 	public void configure()
@@ -91,154 +93,157 @@ public class SensorConfiguration
 			while(scanner.hasNextLine())
 			{
 				String line = scanner.nextLine();
-				System.out.println(line);
 				
-				while(line != null)
+				if(line != null)
 				{	
 					System.out.println("hello");
 					sensor = (Sensor)parser.parse(line);
 					
-					if(sensor.getJointName().equals("head"))
+					if(sensor.getJointName() != null)
 					{
-						sensor.setMaxX(extrema.max(sensor.getX(), head_maximumX));
-						sensor.setMinX(extrema.min(sensor.getX(), head_minimumX));
-						
-						sensor.setMaxY(extrema.max(sensor.getY(), head_maximumY));
-						sensor.setMinY(extrema.min(sensor.getY(), head_minimumY));
-						
-						sensor.setMaxZ(extrema.max(sensor.getZ(), head_maximumZ));
-						sensor.setMinZ(extrema.min(sensor.getZ(), head_minimumZ));
-						
-						head_maximumX = sensor.getMaxX();
-						head_minimumX = sensor.getMinX();
-						
-						head_maximumY = sensor.getMaxY();
-						head_minimumY = sensor.getMinY();
-						
-						head_maximumZ = sensor.getMaxZ();
-						head_minimumZ = sensor.getMinZ();
-								
+						if(sensor.getJointName().equals("head"))
+						{
+							sensor.setMaxX(extrema.max(sensor.getX(), head_maximumX));
+							sensor.setMinX(extrema.min(sensor.getX(), head_minimumX));
+							
+							sensor.setMaxY(extrema.max(sensor.getY(), head_maximumY));
+							sensor.setMinY(extrema.min(sensor.getY(), head_minimumY));
+							
+							sensor.setMaxZ(extrema.max(sensor.getZ(), head_maximumZ));
+							sensor.setMinZ(extrema.min(sensor.getZ(), head_minimumZ));
+							
+							head_maximumX = sensor.getMaxX();
+							head_minimumX = sensor.getMinX();
+							
+							head_maximumY = sensor.getMaxY();
+							head_minimumY = sensor.getMinY();
+							
+							head_maximumZ = sensor.getMaxZ();
+							head_minimumZ = sensor.getMinZ();
+									
+						}
+						else if(sensor.getJointName().equals("left_shoulder"))
+						{
+							sensor.setMaxX(extrema.max(sensor.getX(), shoulder_left_maximumX));
+							sensor.setMinX(extrema.min(sensor.getX(), shoulder_left_minimumX));
+							
+							sensor.setMaxY(extrema.max(sensor.getY(), shoulder_left_maximumY));
+							sensor.setMinY(extrema.min(sensor.getY(), shoulder_left_minimumY));
+							
+							sensor.setMaxZ(extrema.max(sensor.getZ(), shoulder_left_maximumZ));
+							sensor.setMinZ(extrema.min(sensor.getZ(), shoulder_left_minimumZ));
+							
+							shoulder_left_maximumX = sensor.getMaxX();
+							shoulder_left_minimumX = sensor.getMinX();
+							
+							shoulder_left_maximumY = sensor.getMaxY();
+							shoulder_left_minimumY = sensor.getMinY();
+							
+							shoulder_left_maximumZ = sensor.getMaxZ();
+							shoulder_left_minimumZ = sensor.getMinZ();
+						}
+						else if(sensor.getJointName().equals("left_elbow"))
+						{
+							sensor.setMaxX(extrema.max(sensor.getX(), elbow_left_maximumX));
+							sensor.setMinX(extrema.min(sensor.getX(), elbow_left_minimumX));
+							
+							sensor.setMaxY(extrema.max(sensor.getY(), elbow_left_maximumY));
+							sensor.setMinY(extrema.min(sensor.getY(), elbow_left_minimumY));
+							
+							sensor.setMaxZ(extrema.max(sensor.getZ(), elbow_left_maximumZ));
+							sensor.setMinZ(extrema.min(sensor.getZ(), elbow_left_minimumZ));
+							
+							elbow_left_maximumX = sensor.getMaxX();
+							elbow_left_minimumX = sensor.getMinX();
+							
+							elbow_left_maximumY = sensor.getMaxY();
+							elbow_left_minimumY = sensor.getMinY();
+							
+							elbow_left_maximumZ = sensor.getMaxZ();
+							elbow_left_minimumZ = sensor.getMinZ();
+						}
+						else if(sensor.getJointName().equals("left_wrist"))
+						{
+							sensor.setMaxX(extrema.max(sensor.getX(), wrist_left_maximumX));
+							sensor.setMinX(extrema.min(sensor.getX(), wrist_left_minimumX));
+							
+							sensor.setMaxY(extrema.max(sensor.getY(), wrist_left_maximumY));
+							sensor.setMinY(extrema.min(sensor.getY(), wrist_left_minimumY));
+							
+							sensor.setMaxZ(extrema.max(sensor.getZ(), wrist_left_maximumZ));
+							sensor.setMinZ(extrema.min(sensor.getZ(), wrist_left_minimumZ));
+							
+							wrist_left_maximumX = sensor.getMaxX();
+							wrist_left_minimumX = sensor.getMinX();
+							
+							wrist_left_maximumY = sensor.getMaxY();
+							wrist_left_minimumY = sensor.getMinY();
+							
+							wrist_left_maximumZ = sensor.getMaxZ();
+							wrist_left_minimumZ = sensor.getMinZ();
+						}
+						else if(sensor.getJointName().equals("right_shoulder"))
+						{
+							sensor.setMaxX(extrema.max(sensor.getX(), shoulder_right_maximumX));
+							sensor.setMinX(extrema.min(sensor.getX(), shoulder_right_minimumX));
+							
+							sensor.setMaxY(extrema.max(sensor.getY(), shoulder_right_maximumY));
+							sensor.setMinY(extrema.min(sensor.getY(), shoulder_right_minimumY));
+							
+							sensor.setMaxZ(extrema.max(sensor.getZ(), shoulder_right_maximumZ));
+							sensor.setMinZ(extrema.min(sensor.getZ(), shoulder_right_minimumZ));
+							
+							shoulder_right_maximumX = sensor.getMaxX();
+							shoulder_right_minimumX = sensor.getMinX();
+							
+							shoulder_right_maximumY = sensor.getMaxY();
+							shoulder_right_minimumY = sensor.getMinY();
+							
+							shoulder_right_maximumZ = sensor.getMaxZ();
+							shoulder_right_minimumZ = sensor.getMinZ();
+						}
+						else if(sensor.getJointName().equals("right_elbow"))
+						{
+							sensor.setMaxX(extrema.max(sensor.getX(), elbow_right_maximumX));
+							sensor.setMinX(extrema.min(sensor.getX(), elbow_right_minimumX));
+							
+							sensor.setMaxY(extrema.max(sensor.getY(), elbow_right_maximumY));
+							sensor.setMinY(extrema.min(sensor.getY(), elbow_right_minimumY));
+							
+							sensor.setMaxZ(extrema.max(sensor.getZ(), elbow_right_maximumZ));
+							sensor.setMinZ(extrema.min(sensor.getZ(), elbow_right_minimumZ));
+							
+							elbow_right_maximumX = sensor.getMaxX();
+							elbow_right_minimumX = sensor.getMinX();
+							
+							elbow_right_maximumY = sensor.getMaxY();
+							elbow_right_minimumY = sensor.getMinY();
+							
+							elbow_right_maximumZ = sensor.getMaxZ();
+							elbow_right_minimumZ = sensor.getMinZ();
+						}
+						else if(sensor.getJointName().equals("right_wrist"))
+						{
+							sensor.setMaxX(extrema.max(sensor.getX(), wrist_right_maximumX));
+							sensor.setMinX(extrema.min(sensor.getX(), wrist_right_minimumX));
+							
+							sensor.setMaxY(extrema.max(sensor.getY(), wrist_right_maximumY));
+							sensor.setMinY(extrema.min(sensor.getY(), wrist_right_minimumY));
+							
+							sensor.setMaxZ(extrema.max(sensor.getZ(), wrist_right_maximumZ));
+							sensor.setMinZ(extrema.min(sensor.getZ(), wrist_right_minimumZ));
+							
+							wrist_right_maximumX = sensor.getMaxX();
+							wrist_right_minimumX = sensor.getMinX();
+							
+							wrist_right_maximumY = sensor.getMaxY();
+							wrist_right_minimumY = sensor.getMinY();
+							
+							wrist_right_maximumZ = sensor.getMaxZ();
+							wrist_right_minimumZ = sensor.getMinZ();
+						}
 					}
-					else if(sensor.getJointName().equals("left_shoulder"))
-					{
-						sensor.setMaxX(extrema.max(sensor.getX(), shoulder_left_maximumX));
-						sensor.setMinX(extrema.min(sensor.getX(), shoulder_left_minimumX));
-						
-						sensor.setMaxY(extrema.max(sensor.getY(), shoulder_left_maximumY));
-						sensor.setMinY(extrema.min(sensor.getY(), shoulder_left_minimumY));
-						
-						sensor.setMaxZ(extrema.max(sensor.getZ(), shoulder_left_maximumZ));
-						sensor.setMinZ(extrema.min(sensor.getZ(), shoulder_left_minimumZ));
-						
-						shoulder_left_maximumX = sensor.getMaxX();
-						shoulder_left_minimumX = sensor.getMinX();
-						
-						shoulder_left_maximumY = sensor.getMaxY();
-						shoulder_left_minimumY = sensor.getMinY();
-						
-						shoulder_left_maximumZ = sensor.getMaxZ();
-						shoulder_left_minimumZ = sensor.getMinZ();
-					}
-					else if(sensor.getJointName().equals("left_elbow"))
-					{
-						sensor.setMaxX(extrema.max(sensor.getX(), elbow_left_maximumX));
-						sensor.setMinX(extrema.min(sensor.getX(), elbow_left_minimumX));
-						
-						sensor.setMaxY(extrema.max(sensor.getY(), elbow_left_maximumY));
-						sensor.setMinY(extrema.min(sensor.getY(), elbow_left_minimumY));
-						
-						sensor.setMaxZ(extrema.max(sensor.getZ(), elbow_left_maximumZ));
-						sensor.setMinZ(extrema.min(sensor.getZ(), elbow_left_minimumZ));
-						
-						elbow_left_maximumX = sensor.getMaxX();
-						elbow_left_minimumX = sensor.getMinX();
-						
-						elbow_left_maximumY = sensor.getMaxY();
-						elbow_left_minimumY = sensor.getMinY();
-						
-						elbow_left_maximumZ = sensor.getMaxZ();
-						elbow_left_minimumZ = sensor.getMinZ();
-					}
-					else if(sensor.getJointName().equals("left_wrist"))
-					{
-						sensor.setMaxX(extrema.max(sensor.getX(), wrist_left_maximumX));
-						sensor.setMinX(extrema.min(sensor.getX(), wrist_left_minimumX));
-						
-						sensor.setMaxY(extrema.max(sensor.getY(), wrist_left_maximumY));
-						sensor.setMinY(extrema.min(sensor.getY(), wrist_left_minimumY));
-						
-						sensor.setMaxZ(extrema.max(sensor.getZ(), wrist_left_maximumZ));
-						sensor.setMinZ(extrema.min(sensor.getZ(), wrist_left_minimumZ));
-						
-						wrist_left_maximumX = sensor.getMaxX();
-						wrist_left_minimumX = sensor.getMinX();
-						
-						wrist_left_maximumY = sensor.getMaxY();
-						wrist_left_minimumY = sensor.getMinY();
-						
-						wrist_left_maximumZ = sensor.getMaxZ();
-						wrist_left_minimumZ = sensor.getMinZ();
-					}
-					else if(sensor.getJointName().equals("right_shoulder"))
-					{
-						sensor.setMaxX(extrema.max(sensor.getX(), shoulder_right_maximumX));
-						sensor.setMinX(extrema.min(sensor.getX(), shoulder_right_minimumX));
-						
-						sensor.setMaxY(extrema.max(sensor.getY(), shoulder_right_maximumY));
-						sensor.setMinY(extrema.min(sensor.getY(), shoulder_right_minimumY));
-						
-						sensor.setMaxZ(extrema.max(sensor.getZ(), shoulder_right_maximumZ));
-						sensor.setMinZ(extrema.min(sensor.getZ(), shoulder_right_minimumZ));
-						
-						shoulder_right_maximumX = sensor.getMaxX();
-						shoulder_right_minimumX = sensor.getMinX();
-						
-						shoulder_right_maximumY = sensor.getMaxY();
-						shoulder_right_minimumY = sensor.getMinY();
-						
-						shoulder_right_maximumZ = sensor.getMaxZ();
-						shoulder_right_minimumZ = sensor.getMinZ();
-					}
-					else if(sensor.getJointName().equals("right_elbow"))
-					{
-						sensor.setMaxX(extrema.max(sensor.getX(), elbow_right_maximumX));
-						sensor.setMinX(extrema.min(sensor.getX(), elbow_right_minimumX));
-						
-						sensor.setMaxY(extrema.max(sensor.getY(), elbow_right_maximumY));
-						sensor.setMinY(extrema.min(sensor.getY(), elbow_right_minimumY));
-						
-						sensor.setMaxZ(extrema.max(sensor.getZ(), elbow_right_maximumZ));
-						sensor.setMinZ(extrema.min(sensor.getZ(), elbow_right_minimumZ));
-						
-						elbow_right_maximumX = sensor.getMaxX();
-						elbow_right_minimumX = sensor.getMinX();
-						
-						elbow_right_maximumY = sensor.getMaxY();
-						elbow_right_minimumY = sensor.getMinY();
-						
-						elbow_right_maximumZ = sensor.getMaxZ();
-						elbow_right_minimumZ = sensor.getMinZ();
-					}
-					else if(sensor.getJointName().equals("right_wrist"))
-					{
-						sensor.setMaxX(extrema.max(sensor.getX(), wrist_right_maximumX));
-						sensor.setMinX(extrema.min(sensor.getX(), wrist_right_minimumX));
-						
-						sensor.setMaxY(extrema.max(sensor.getY(), wrist_right_maximumY));
-						sensor.setMinY(extrema.min(sensor.getY(), wrist_right_minimumY));
-						
-						sensor.setMaxZ(extrema.max(sensor.getZ(), wrist_right_maximumZ));
-						sensor.setMinZ(extrema.min(sensor.getZ(), wrist_right_minimumZ));
-						
-						wrist_right_maximumX = sensor.getMaxX();
-						wrist_right_minimumX = sensor.getMinX();
-						
-						wrist_right_maximumY = sensor.getMaxY();
-						wrist_right_minimumY = sensor.getMinY();
-						
-						wrist_right_maximumZ = sensor.getMaxZ();
-						wrist_right_minimumZ = sensor.getMinZ();
-					}
+
 				}
 							
 			}
