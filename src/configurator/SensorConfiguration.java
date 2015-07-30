@@ -96,7 +96,6 @@ public class SensorConfiguration
 				
 				if(line != null)
 				{	
-					System.out.println("hello");
 					sensor = (Sensor)parser.parse(line);
 					
 					if(sensor.getJointName() != null)

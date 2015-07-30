@@ -1,7 +1,7 @@
-HEAD max x: 0 min x: 360 max y: 0 min y: 360 max z: 0 min z: 360
-SHOULDER LEFT max x: 0 min x: 360 max y: 0 min y: 360 max z: 0 min z: 360
-ELBOW LEFT max x: 32 min x: -144 max y: 29 min y: -109 max z: 95 min z: -42
-WRIST LEFT max x: 0 min x: 360 max y: 0 min y: 360 max z: 0 min z: 360
-SHOULDER RIGHT max x: 0 min x: 360 max y: 0 min y: 360 max z: 0 min z: 360
-ELBOW RIGHT max x: 0 min x: -149 max y: 97 min y: -44 max z: 64 min z: -112
-WRIST RIGHT max x: 0 min x: 360 max y: 0 min y: 360 max z: 0 min z: 360
+HEAD max x: 30 min x: -68 max y: 62 min y: -102 max z: 0 min z: 0
+SHOULDER LEFT max x: 180 min x: 6 max y: 95 min y: 1 max z: 0 min z: 0
+ELBOW LEFT max x: 82 min x: -44 max y: 3 min y: -147 max z: 92 min z: -41
+WRIST LEFT max x: 152 min x: -162 max y: 105 min y: -125 max z: 90 min z: -160
+SHOULDER RIGHT max x: 179 min x: 0 max y: 84 min y: 0 max z: 0 min z: 0
+ELBOW RIGHT max x: 85 min x: -73 max y: 118 min y: -11 max z: 28 min z: -100
+WRIST RIGHT max x: 178 min x: -179 max y: 161 min y: -166 max z: 168 min z: -167

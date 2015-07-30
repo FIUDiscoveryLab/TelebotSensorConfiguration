@@ -13,7 +13,10 @@ public class Parser
 		
 		try 
 		{
-			StringTokenizer tokenizer = new StringTokenizer(in, delim);
+			String in_one = in.replace("<", "");
+			String in_two = in_one.replace(">", "");
+			
+			StringTokenizer tokenizer = new StringTokenizer(in_two, delim);
 			
 			if(tokenizer.hasMoreTokens())
 			{
